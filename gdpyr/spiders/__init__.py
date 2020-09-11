@@ -13,7 +13,7 @@ from importlib.metadata import version
 
 __author__ = 'apehex'
 __email__ = 'apehex@protonmail.com'
-__version__ = version(__package__)
+__version__ = '0.1.1'
 __title__ = 'gdpyr.spiders'
 __description__ = 'Monitor the legal commitments of data-processors.'
 __url__ = 'https://github/apehex/gdpyr'
