@@ -1,4 +1,4 @@
-* Homespace apehex version:
+* GDPyR apehex version:
 * Python version:
 * Operating System:
 

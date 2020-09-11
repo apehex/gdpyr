@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
 """
-=========
-Homespace
-=========
+=======
+Spiders
+=======
 
-A toolbox to scrape, visualize and evaluate second hand ads.
+Where the scraping happens.
 """
 
 from __future__ import division, print_function, absolute_import
@@ -14,9 +14,9 @@ from importlib.metadata import version
 __author__ = 'apehex'
 __email__ = 'apehex@protonmail.com'
 __version__ = version(__package__)
-__title__ = 'homespace'
-__description__ = 'A toolbox to scrape and visualize second hand ads.'
-__url__ = 'https://github/apehex/homespace'
+__title__ = 'gdpyr.spiders'
+__description__ = 'Monitor the legal commitments of data-processors.'
+__url__ = 'https://github/apehex/gdpyr'
 __license__ = 'MIT license'
 
 __all__ = []
